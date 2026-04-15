@@ -1,6 +1,3 @@
-# flight_data_analysis
-Analysis of U.S. flight data using python 
-
 # Flight Data Analysis
 
 This project analyzes U.S. domestic flight data from 2013 using Python.
